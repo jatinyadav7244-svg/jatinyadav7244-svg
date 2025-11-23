@@ -30,16 +30,16 @@ for: jatinyadav7244-svg
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00E5FF&center=true&vCenter=true&width=780&lines=Software+Engineer+%7C+Full+Stack+Developer;Python+%7C+Java+%7C+C%2B%2B;Building+Scalable+Systems+Worldwide" />
 </p>
- <p align="right">
-  <img src="https://media.tenor.com/BqbIhT4Mb7cAAAAM/programmer-rounded-edges.gif" width="350" />
-</p>
+ 
 ---
 
 # 👨‍💻 About Me
 I am a software engineer focused on **full-stack development**, **backend systems**, and **automation**.  
 I build high-performance applications using **Python, Java, and C++**, paired with modern UI frameworks.  
 My goal is to create fast, scalable, secure, and beautiful digital experiences.
-
+ <p align="right">
+  <img src="https://media.tenor.com/BqbIhT4Mb7cAAAAM/programmer-rounded-edges.gif" width="300" />
+</p>
  
 ---
 
