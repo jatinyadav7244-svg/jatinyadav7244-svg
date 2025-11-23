@@ -2,6 +2,11 @@
   <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="100%" />
 </p>
 
+ 
+
+
+
+
  <!-- ============================
 ULTRA ADVANCED FULL FEATURED README  
 for: jatinyadav7244-svg
@@ -25,7 +30,9 @@ for: jatinyadav7244-svg
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00E5FF&center=true&vCenter=true&width=780&lines=Software+Engineer+%7C+Full+Stack+Developer;Python+%7C+Java+%7C+C%2B%2B;Building+Scalable+Systems+Worldwide" />
 </p>
-
+ <p align="right">
+  <img src="https://media.tenor.com/BqbIhT4Mb7cAAAAM/programmer-rounded-edges.gif" width="350" />
+</p>
 ---
 
 # 👨‍💻 About Me
@@ -33,6 +40,7 @@ I am a software engineer focused on **full-stack development**, **backend system
 I build high-performance applications using **Python, Java, and C++**, paired with modern UI frameworks.  
 My goal is to create fast, scalable, secure, and beautiful digital experiences.
 
+ 
 ---
 
 # 🔥 Professional Highlights
@@ -44,15 +52,31 @@ My goal is to create fast, scalable, secure, and beautiful digital experiences.
 
 ---
 
-# 🛠️ Tech Stack
-<p>
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
- <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
- <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
- <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+ ### Tech & Tools Preference
+
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+
+ <p align="left">
+  <img src="https://camo.githubusercontent.com/cdb4447d37ecb34653ab6e0c2fe87561c3b368a29b940f5900f52061fac4bb16/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d70616e39333431322662675f636f6c6f723d39302c4441464645462c464346464644" width="300">
 </p>
+
+ ### Other Languages I know
+<img src="http://img.shields.io/badge/-JavaScript-F89820?style=flat&logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"><img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+ 
+
 
 ---
 
