@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi there 👋
+# HACKER-LEGEND
+ 
+<!-- Banner -->
+<p align="center">
+  <img src="/mnt/data/A_GitHub_profile_README_showcases_a_hacker-themed_.png" width="100%" />
+</p>
 
-<!--
-**jatinyadav7244-svg/jatinyadav7244-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I am a software engineer working with full-stack applications. I build scalable systems, modern APIs, and efficient backend services using Python, Java, and C++.
 
-Here are some ideas to get you started:
+<h1 align="center">🔥 HACKER LEGEND 🔥</h1>
+<p align="center">WELCOME TO MY GITHUB PROFILE</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- Avatar -->
+<p align="center">
+  <img src="/mnt/data/A_GitHub_profile_README_showcases_a_hacker-themed_.png" width="200" style="border-radius:50%;" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=jatinyadav7244-svg&show_icons=true&theme=tokyonight)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinyadav7244-svg&layout=compact&hide_border=true&theme=tokyonight)
+
+
+---
+
+## 🌀 3D GitHub Stats
+![3D Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatinyadav7244-svg&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=jatinyadav7244-svg&theme=tokyonight)
+
+---
+
+## ⚡ Contribution Snake
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+## ⚡ Recent Activity
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=jatinyadav7244-svg&theme=react-dark)
+
+---
+
+## 🛠️ Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 🌐 Socials
+[![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#)
+
+---
+
+## 🏆 Achievements & Badges
+![Profile Views](https://komarev.com/ghpvc/?username=jatinyadav7244-svg&color=blue)
+![Repos](https://badges.pufler.dev/repos/jatinyadav7244-svg)
+
+ 
