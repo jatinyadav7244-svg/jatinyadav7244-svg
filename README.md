@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="100%" />
+  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="200%" />
 </p>
 
  
@@ -37,9 +37,7 @@ for: jatinyadav7244-svg
 I am a software engineer focused on **full-stack development**, **backend systems**, and **automation**.  
 I build high-performance applications using **Python, Java, and C++**, paired with modern UI frameworks.  
 My goal is to create fast, scalable, secure, and beautiful digital experiences.
- <p align="right">
-  <img src="https://media.tenor.com/BqbIhT4Mb7cAAAAM/programmer-rounded-edges.gif" width="300" />
-</p>
+ 
  
 ---
 
